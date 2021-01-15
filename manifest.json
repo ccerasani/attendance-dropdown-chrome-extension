@@ -1,7 +1,7 @@
 {
     "name": "Absent, Excused",
     "version": "1.0",
-    "description": "Adds absent, excused update all function",
+    "description": "Adds absent, excused update all to dropdown function",
     "manifest_version": 2,
     "background": {
         "scripts": [
